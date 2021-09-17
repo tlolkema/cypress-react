@@ -1,0 +1,24 @@
+{
+    "frameworks": [
+        {
+            "name": "playwright",
+            "commits": 5260,
+            "author": "Microsoft"
+        },
+        {
+            "name": "robotframework",
+            "commits": 12988,
+            "author": "Nokia"
+        },
+        {
+            "name": "cypress",
+            "commits": 15763,
+            "author": "Cypress"
+        },
+        {
+            "name": "selenium",
+            "commits": 27159,
+            "author": "Selenium"
+        }
+    ]
+}
