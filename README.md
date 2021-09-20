@@ -25,7 +25,7 @@ How to run the React client:
 
 ## Running tests
 
-- Go to client folder
+- `cd client`
 
 Open E2E tests:
 - `npx cypress open`
